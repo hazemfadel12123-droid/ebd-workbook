@@ -113,3 +113,5 @@ export function wireButtons() {
 
   document.querySelector("#reset").addEventListener("click", clearProducts);
 }
+
+wireButtons();
